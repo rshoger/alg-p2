@@ -1,4 +1,4 @@
-# Some Algorithms
+Some Algorithms
 =================
 
 This simple program requires Python. 
