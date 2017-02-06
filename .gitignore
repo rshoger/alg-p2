@@ -1,0 +1,8 @@
+*.swo
+*.swp
+
+.tox/
+.vagrant/
+
+*.txt
+!requirements.txt
